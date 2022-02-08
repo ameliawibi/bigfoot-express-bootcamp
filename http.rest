@@ -1,0 +1,17 @@
+GET http://localhost:3006/
+###
+
+GET http://localhost:3006/sightings/0
+###
+
+GET http://localhost:3006/apple
+###
+
+GET http://localhost:3006/year-sightings/2000
+###
+
+GET http://localhost:3006/year-sightings?sort=asc
+###
+
+GET http://localhost:3006/year-sightings?sort=dsc
+###
